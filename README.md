@@ -124,14 +124,14 @@ Hey there, I'm ِAlaa, a 18 year Web developer from Egypt. I love making Web Sit
   </div>
   <br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/omar00050">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar00050&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    <a href="https://github.com/Alaa2472">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaa2472&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
   <div align=center>
-    <a href="https://github.com/omar00050" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=farghaly&theme=react&layout=compact" alt="omar00050" />
+    <a href="https://github.com/Alaa2472" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=Alaa2472&theme=react&layout=compact" alt="omar00050" />
     </a>
     <a href="https://github.com/Alaa2472" title="Go to Source">
       <img align="right" width=300 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alaa2472&theme=react&utcOffset=8" />
@@ -178,7 +178,7 @@ Hey there, I'm ِAlaa, a 18 year Web developer from Egypt. I love making Web Sit
 </div>
     
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/omar00050/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Alaa2472/count.svg" />  
 </p>
    
 ---
