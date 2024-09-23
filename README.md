@@ -119,7 +119,7 @@ Hey there, I'm ِAlaa, a 18 year Web developer from Egypt. I love making Web Sit
        <img src="https://streak-stats.demolab.com?user=Alaa2472&theme=tokyonight&border_radius=9.2" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/Alaa2472" title="Go to Source">
-      <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=Alaa2472&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=false" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Alaa2472&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=false" />
     </a>
   </div>
   <br><br><br><br><br><br>
@@ -133,14 +133,14 @@ Hey there, I'm ِAlaa, a 18 year Web developer from Egypt. I love making Web Sit
     <a href="https://github.com/omar00050" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=farghaly&theme=react&layout=compact" alt="omar00050" />
     </a>
-    <a href="https://github.com/omar00050" title="Go to Source">
-      <img align="right" width=300 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omar00050&theme=react&utcOffset=8" />
+    <a href="https://github.com/Alaa2472" title="Go to Source">
+      <img align="right" width=300 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alaa2472&theme=react&utcOffset=8" />
     </a>
   </div>
   
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar00050&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omar00050&theme=city_lights" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaa2472&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alaa2472&theme=city_lights" width="100%"/>
 </p>
 
 
