@@ -10,7 +10,7 @@ Hey there, I'm ِAlaa, a 18 year Web developer from Egypt. I love making Web Sit
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/365189609807675392)](https://discord.com/users/365189609807675392)
 <p>
-   <a href=[https://discord.com/channels/@me/365189609807675392"> <img src=" https://discord.c99.nl/widget/theme-3/365189609807675392.png" alt="contact mee"></a>
+   <a href=[https://discord.com/channels/@me/365189609807675392"> <img src="https://discord.c99.nl/widget/theme-3/365189609807675392.png" alt="contact mee"></a>
 <p>
 
 </div>
