@@ -16,8 +16,8 @@ Hey there, I'm ِAlaa, a 18 year Web developer from Egypt. I love making Web Sit
 </div>
 <br />
 
-- I am a  Full-Stack web developer from Egypt.
-- I specialize in Bun.js and have a passion for building websites, particularly e-commerce platforms.
+- I am Going to be  Full-Stack web developer based on Egypt.
+- I specialize in Bun.js and have a passion for building websites.
 <br />
 
 - [![GitHub followers](https://img.shields.io/github/followers/Alaa2472.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Alaa2472?tab=followers)
@@ -163,12 +163,12 @@ Hey there, I'm ِAlaa, a 18 year Web developer from Egypt. I love making Web Sit
 <a href="https://twitter.com/o6r_0"><img alt="twitter" src="https://img.shields.io/badge/-@FarghOmar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
 
 </p>
-
+<!--
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/abofarghaly"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omar%20Farghaly-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/o6r"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omar%20Farghaly-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:omar.aly00050@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-omar.aly00050@outlook.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+</p>-->
 
 <br>
   <a href=#><img width="100%"  src="Status.svg"></a>
