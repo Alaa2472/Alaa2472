@@ -119,28 +119,24 @@ Hey there, I'm ِAlaa, a 18 year Web developer from Egypt. I love making Web Sit
        <img src="https://streak-stats.demolab.com?user=Alaa2472&theme=tokyonight&border_radius=9.2" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/Alaa2472" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Alaa2472&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=false" />
+      <img align="right" width=450 src="https://github-readme-stats.vercel.app/api?username=Alaa2472&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=false" />
     </a>
   </div>
-  <br><br><br><br><br><br>
+  <br><br>
   <div align=center>
     <a href="https://github.com/Alaa2472">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaa2472&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=250  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaa2472&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
-  </div>
-  <br>
-  <div align=center>
-    <a href="https://github.com/Alaa2472" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api/wakatime?username=Alaa2472&theme=react&layout=compact" alt="omar00050" />
+         <a href="https://github.com/Alaa2472" title="Go to Source">
+      <img align="right" width=430 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alaa2472&theme=react&utcOffset=8" />
     </a>
-    <a href="https://github.com/Alaa2472" title="Go to Source">
-      <img align="right" width=300 src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alaa2472&theme=react&utcOffset=8" />
-    </a>
+     <br><br>
   </div>
   
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaa2472&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <br><br>   <br><br>  <br><br>  <br><br> 
+  <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alaa2472&theme=city_lights" width="100%"/>
+     </div>
 </p>
 
 
@@ -156,14 +152,14 @@ Hey there, I'm ِAlaa, a 18 year Web developer from Egypt. I love making Web Sit
 <br> 
 <hr>
  
-
+<!--
 <h3> Social Media </h3>
 <p align="center">
-<a href="https://www.instagram.com/o8r.0/"><img alt="Instagram" src="https://img.shields.io/badge/-farghaly00050-blue?style=flat-square&logo=instagram"></a>
-<a href="https://twitter.com/o6r_0"><img alt="twitter" src="https://img.shields.io/badge/-@FarghOmar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
+<a href="https://www.instagram.com/o8r.0/"><img alt="Instagram" src="https://img.shields.io/badge/-ِAlaa-Elsamouly-blue?style=flat-square&logo=instagram"></a>
+<a href="https://twitter.com/o6r_0"><img alt="twitter" src="https://img.shields.io/badge/-@o8r.0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"></a>
 
 </p>
-<!--
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/o6r"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Omar%20Farghaly-blue?style=flat-square&logo=linkedin"></a>
@@ -182,5 +178,5 @@ Hey there, I'm ِAlaa, a 18 year Web developer from Egypt. I love making Web Sit
 </p>
    
 ---
-
-*If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*
+<!--
+*If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.*-->
